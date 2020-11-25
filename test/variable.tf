@@ -18,6 +18,7 @@ variable "multi_az" {}
 variable "db_p_name1" {}
 variable "db_p_name2" {}
 variable "db_p_name3" {}
+variable "publicly_accessible" {}
 
 variable "tags" {
   type = "map"
