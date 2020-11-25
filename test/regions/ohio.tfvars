@@ -18,6 +18,7 @@
   db_p_name2          = "character_set_server"
   db_p_name3          = "character_set_client"
   allocated_storage   = 20
+  publicly_accessible = true
 
   tags = {
     Name        = "VPC_Project"
